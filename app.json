@@ -1,0 +1,12 @@
+{
+  "name": "TimeZoneTeammates",
+  "displayName": "TimeZoneTeammates",
+  "expo": {
+    "name": "TimeZoneTeammates",
+    "slug": "TimeZoneTeammates",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
